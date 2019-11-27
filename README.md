@@ -2,6 +2,12 @@
 
 嵌入式SDK使用C语言开发，对外提供C接口，支持主流架构：arm、arm64、mips、x86/x64等，目前对外版本号是1.3.0，提供的主要功能包括点对点消息通道，群组聊天，聊天室和实时音视频等，具体请关注[云信官网](https://netease.im) 。
 
+## 更新日志
+
+- [IM](https://dev.yunxin.163.com/docs/product/IM%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/Linux%E7%AB%AF%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+
+- [实时音视频](https://dev.yunxin.163.com/docs/product/%E9%9F%B3%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/Linux%E7%AB%AF%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+
 ## SDK下载
 
 网易云信根据现有用户的硬件CPU架构和编译环境，整理出已有的Linux SDK库文件供用户下载。
